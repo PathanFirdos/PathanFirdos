@@ -52,7 +52,7 @@ if(isset($_POST['login']))
                 <div class="row">
                     <div class="col-xl-5 pa-0">
                         <div id="owl_demo_1" class="owl-carousel dots-on-item owl-theme">
-                            <div class="fadeOut item auth-cover-img overlay-wrap" style="background-image:url(dist/img/banner2.png);">
+                                 <div class="fadeOut item auth-cover-img overlay-wrap" style="background-image:url(dist/img/banner3.jpg);">
                                 <div class="auth-cover-info py-xl-0 pt-100 pb-50">
                                     <div class="auth-cover-content text-center w-xxl-75 w-sm-90 w-xs-100">
                                        
@@ -60,7 +60,15 @@ if(isset($_POST['login']))
                                 </div>
                                 <div class="bg-overlay bg-trans-dark-50"></div>
                             </div>
-                            <div class="fadeOut item auth-cover-img overlay-wrap" style="background-image:url(dist/img/banner1.png);">
+                            <div class="fadeOut item auth-cover-img overlay-wrap" style="background-image:url(dist/img/banner2.jpg);">
+                                <div class="auth-cover-info py-xl-0 pt-100 pb-50">
+                                    <div class="auth-cover-content text-center w-xxl-75 w-sm-90 w-xs-100">
+                                       
+                                    </div>
+                                </div>
+                                <div class="bg-overlay bg-trans-dark-50"></div>
+                            </div>
+                            <div class="fadeOut item auth-cover-img overlay-wrap" style="background-image:url(dist/img/banner1.jpg);">
                                 <div class="auth-cover-info py-xl-0 pt-100 pb-50">
                                     <div class="auth-cover-content text-center w-xxl-75 w-sm-90 w-xs-100">
                                       
